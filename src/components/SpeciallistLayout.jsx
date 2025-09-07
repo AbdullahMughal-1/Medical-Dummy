@@ -42,7 +42,7 @@ const SpeciallistLayout = () => {
             <div className="space-y-3 text-sm text-slate-600">
               {Array(4).fill().map((_, idx) => (
                 <div key={idx} className="flex items-start gap-3">
-                  <span className="mt-1 h-2.5 w-2.5 rounded-full bg-blue-600" />
+                  <span className="mt-1 h-2.5 w-2.5 rounded-full" />
                   Lorem ipsum dolor sit amet, consectetur adipiscing elit.
                 </div>
               ))}
