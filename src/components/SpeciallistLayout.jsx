@@ -4,7 +4,7 @@ import surgery from '../assets/surgery.jpg';
 const SpeciallistLayout = () => {
   return (
     <div className="bg-white text-slate-900 font-sans">
-      <h2 className="text-4xl mx-10 font-bold ml-[330px] translate-y-5">
+      <h2 className="text-4xl font-bold text-center md:text-left px-4 md:px-0 md:ml-[330px] md:translate-y-5">
         Our Consulting Specialists
       </h2>
 
